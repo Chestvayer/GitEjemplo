@@ -5,6 +5,8 @@ Carrito de compras
 4._pan
 5._pepinillos
 6._awa
+7._sopa
+
 
 
 
