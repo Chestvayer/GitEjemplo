@@ -3,5 +3,8 @@ Carrito de compras
 2._Queso
 3._coca
 4._pan
+5._pepinillos
+6._awa
+
 
 
